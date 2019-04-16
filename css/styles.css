@@ -1,7 +1,18 @@
 body {
 
+    font-family: 'Muli', sans-serif;
+    font-size: 1.15rem;
+}
 
-    font-family: 'Montserrat', sans-serif !important;
+p {
+    font-family: 'Open Sans', sans-serif !important;
+}
 
+.hero-section {
 
+    padding: 11% 0 9% 0 !important;
+
+}
+.hero-section .display-3 {
+    font-weight: bold;
 }
